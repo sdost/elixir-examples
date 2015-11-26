@@ -1,0 +1,9 @@
+%{"certifi": {:hex, :certifi, "0.3.0"},
+  "earmark": {:hex, :earmark, "0.1.19"},
+  "ex_doc": {:git, "https://github.com/elixir-lang/ex_doc.git", "b439f3c72b27eee770e0f408560b586de4255efc", []},
+  "hackney": {:hex, :hackney, "1.4.6"},
+  "httpoison": {:hex, :httpoison, "0.8.0"},
+  "idna": {:hex, :idna, "1.0.2"},
+  "jsx": {:hex, :jsx, "2.8.0"},
+  "mimerl": {:hex, :mimerl, "1.0.0"},
+  "ssl_verify_hostname": {:hex, :ssl_verify_hostname, "1.0.5"}}
